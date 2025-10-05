@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 750" width="750" height="750"  name="xfinity" placeholder="Xfinity by @CodxVoid License -  https://creativecommons.org/licenses/by-nc-nd/4.0  Copyright 2025 CodxVoid" aria-label="CodxVoid Xfinity Logo">
+  <defs>
+    <title>Xfinity Logo by CodxVoid</title>
+    <clipPath clipPathUnits="userSpaceOnUse" id="a">
+      <path d="M0 0h750v750H0z"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#a)">
+    <path d="M66.2 402.7q13.5 397.3 241.3 31m1.4-1Q644.6-208.1 658 268.3" style="fill:none;stroke:#007eff;stroke-width:78.6"/>
+    <path d="M335 463.3q318.7 423.8 323.5-106.4m-592-13.7Q95 129.3 343.7 474.5" style="fill:none;stroke:#007eff;stroke-width:78.7"/>
+  </g>
+</svg>
